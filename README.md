@@ -55,3 +55,4 @@ Si l'ordinateur a plus que le joueur et moins de 21 la machine gagne.
 * Transformer les chiffres en carte visuellement
 * Laisser l'ordinateur la possibilité de choisir si il veut lui aussi une carte en plus ou non.
 * Mettre en place un systeme de mise (Le joueur commence avec une réserve de jeton qu'il peut miser)
+# jsexo2-blackjackrev-exercice1-boukhemis11
